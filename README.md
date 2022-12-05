@@ -18,3 +18,4 @@ The website was build using :
 - Css grid & flexbox
 - Css BEM Model
 - media queries to make the app suitable for all screen sizes
+- subtle animations 
