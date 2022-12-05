@@ -3,6 +3,8 @@ Restaurant Website in React JS
 
 
 <img width="320" alt="screenshot" src="https://user-images.githubusercontent.com/15197958/170079569-feb2b700-ee6d-4833-be74-688839fed7fd.png">
+Figma Design for the website: 
+https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=53%3A2
 
 To run the app do the following:
 
